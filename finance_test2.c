@@ -50,6 +50,7 @@ int main(void) {
 
 	printf("The final value of your credits was %f\n",vals[0]);
 	printf("The final value of your debits was %f\n",vals[1]);
+	printf("The final value of your net worth is %f\n",vals[0]-vals[1]);
 
 	fprintf(fp,"%f\n",vals[0]);
 	fprintf(fp,"%f\n",vals[1]);
