@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "info.c"
 
 int main(void) {
 
@@ -29,7 +30,7 @@ int main(void) {
 	debits += expense;
 	net = credits-debits;
 	printf("The calculated net balance was %f\n",net);
-	checkit(income, expense, (double)net);	
+	checkit((double)income, (double)expense, (double)net);
 	printf("Your final credit balance was: %f\n",credits);
 	printf("Your final debit balance was: %f\n", debits);
 	printf("Your final net balance was: %f\n", credits-debits);
