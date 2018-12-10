@@ -79,3 +79,5 @@ The user jessezhou of home directory /Users/jessezhou recorded an income of 20.0
  Net balance: -69.500000
 The user jessezhou of home directory /Users/jessezhou recorded an income of -20.000000 and expense of -20.000000 on Mon Dec 10 18:25:56 2018
  Net balance: -69.500000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 23.000000 on Tue Dec 11 01:13:57 2018
+ Net balance: -92.500000
