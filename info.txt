@@ -1,0 +1,71 @@
+The user jessezhou of home directory /Users/jessezhou recorded an income of -1161179480 and expense of 5401856 on Fri Dec  7 18:34:53 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of -1161179480 and expense of 5403904 on Fri Dec  7 18:36:06 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 18:37:45 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 18:40:13 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 18:51:19 2018
+. Net balance was 0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 18:52:03 2018
+
+ Net balance was 0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 18:54:56 2018
+ Net balance:0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 18:55:30 2018
+ Net balance:0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 18:57:14 2018
+ Net balance:0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 18:58:29 2018
+ Net balance:0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 18:59:21 2018
+ Net balance:0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 19:03:36 2018
+ Net balance:0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 19:05:09 2018
+ Net balance:0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 19:06:20 2018
+ Net balance:0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 19:08:38 2018
+ Net balance:0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 19:10:47 2018
+ Net balance:0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 19:13:02 2018
+ Net balance:0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 20:52:32 2018
+ Net balance:0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 20:53:57 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 20:55:21 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 20:56:32 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 20:57:00 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 20:57:25 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 20:57:52 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 20:59:29 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 20:59:54 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 21:01:00 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 21:02:04 2018
+
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 21:03:03 2018
+ Net balance: -49.500000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 21:03:30 2018
+ Net balance: -49.500000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 21:16:27 2018
+ Net balance: 0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 21:16:38 2018
+ Net balance: 0.000000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 21:17:09 2018
+ Net balance: -49.500000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Fri Dec  7 21:18:36 2018
+ Net balance: -49.500000
+The user jessezhou of home directory /Users/jessezhou recorded an income of 0.000000 and expense of 0.000000 on Mon Dec 10 13:57:57 2018
+ Net balance: -49.500000
