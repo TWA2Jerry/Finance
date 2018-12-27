@@ -109,3 +109,9 @@ The user JZ of home directory /Users/JZ recorded an income of 0.000000 and expen
  Net balance: 65.530029
 The user JZ of home directory /Users/JZ recorded an income of 0.000000 and expense of 37.000000 on Tue Dec 25 10:21:43 2018
  Net balance: 28.530029
+The user JZ of home directory /Users/JZ recorded an income of 0.000000 and expense of 30.000000 on Thu Dec 27 18:04:42 2018
+ Net balance: -1.469971
+The user JZ of home directory /Users/JZ recorded an income of 0.000000 and expense of 0.000000 on Thu Dec 27 18:04:48 2018
+ Net balance: -1.469971
+The user JZ of home directory /Users/JZ recorded an income of 0.000000 and expense of 30.000000 on Thu Dec 27 18:04:54 2018
+ Net balance: -31.469971
